@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mission in Tokushima</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_request_mission">Mission</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="acount_text">アカウント</string>
+    <string name="password">パスワード</string>
+    <string name="ok_button">OK</string>
+    <string name="name">表示名</string>
+    <string name="address">住所</string>
+    <string name="phone_no">電話番号</string>
+    <string name="location">緯度と経度</string>
+    <string name="get_address">住所を取得</string>
+    <string name="toast_timeout">接続がタイムアウトしました</string>
+    <string name="email">EMail</string>
+
+</resources>
